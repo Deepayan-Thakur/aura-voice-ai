@@ -1,0 +1,7 @@
+{
+  "name": "Aura Voice AI",
+  "description": "A conversational voice AI assistant supporting English and Hindi with Google Search capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
